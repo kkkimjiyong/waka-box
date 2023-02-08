@@ -1,4 +1,4 @@
-name: Update gist with WakaTime stats
+name: 어떻게 얼만큼 시간을?
 on:
   schedule:
     - cron: "0 0 * * *"
